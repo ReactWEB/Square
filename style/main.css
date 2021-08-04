@@ -21,41 +21,49 @@
 }
 .yellow1{  
   background-color: #ff6600;
-  margin: 86px auto auto 393px;
+  top: 86px;
+  left: 193px;
   z-index: 5;
 }
 .yellow2{  
   background-color: #ff6600;
-  margin: 86px auto auto 193px;
+  top: 86px;
+  right: 204px;
   z-index: 1;
 }
 .blue1{  
   background-color: #003399;
-  margin: 40px auto auto 497px;
+  top: 40px;
+  left: 248px;  
   z-index: 2;
 }
 .blue2{  
   background-color: #003399;
-  margin: 240px auto auto 497px;
+  top: 240px;
+  left: 248px;
   z-index: 2;
 }
 .aqua1{  
   background-color: #66ffff;
-  margin: 344px auto auto 193px;
+  bottom: 90px;
+  right: 211px;
   z-index: 3;
 }
 .aqua2{  
   background-color: #66ffff;
-  margin: 344px auto auto 393px;
+  bottom: 90px;
+  left: 190px;
   z-index: 1;
 }
 .red1{  
   background-color: #ff0066;
-  margin: 40px auto auto 239px;
+  top: 40px;
+  right: 272px;
   z-index: 4;
 }
 .red2{  
   background-color: #ff0066;
-  margin: 240px auto auto 239px;
+  top: 240px;
+  right: 272px;
   z-index: 1;
 }
