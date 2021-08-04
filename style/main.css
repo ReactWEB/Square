@@ -1,0 +1,61 @@
+.wrapper{
+  width: 800px;
+  height: 500px;
+  margin: 1% auto;
+  position: relative;
+  background-color: #eee;
+}
+.box{  
+  position: absolute;  
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+.box.yellow1, .box.yellow2, .box.aqua1, .box.aqua2{
+  width: 200px;
+  height: 50px;
+}
+.box.blue1, .box.blue2, .box.red1, .box.red2{
+  width: 50px;
+  height: 200px;
+}
+.yellow1{  
+  background-color: #ff6600;
+  margin: 86px auto auto 393px;
+  z-index: 5;
+}
+.yellow2{  
+  background-color: #ff6600;
+  margin: 86px auto auto 193px;
+  z-index: 1;
+}
+.blue1{  
+  background-color: #003399;
+  margin: 40px auto auto 497px;
+  z-index: 2;
+}
+.blue2{  
+  background-color: #003399;
+  margin: 240px auto auto 497px;
+  z-index: 2;
+}
+.aqua1{  
+  background-color: #66ffff;
+  margin: 344px auto auto 193px;
+  z-index: 3;
+}
+.aqua2{  
+  background-color: #66ffff;
+  margin: 344px auto auto 393px;
+  z-index: 1;
+}
+.red1{  
+  background-color: #ff0066;
+  margin: 40px auto auto 239px;
+  z-index: 4;
+}
+.red2{  
+  background-color: #ff0066;
+  margin: 240px auto auto 239px;
+  z-index: 1;
+}
